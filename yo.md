@@ -20,4 +20,4 @@ Soy médica y estudiante de Maestría de Epidemiología Clínica. Tomaré el cur
 - Soy de Pereira.
 - Hace 8 años vivo en Bogotá. 
 - Actualmente vivo con mis padres y soy hija única.
-- Mi actividad favorita es viajar y el trekking. 
+- Mi actividad favorita es viajar y el [trekking](https://definicion.de/trekking/). 
